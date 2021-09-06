@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gagan A P</h1>
 <h3 align="center">A passionate Frontend Developer and UI Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgaganap" alt="iamgaganap" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iamgaganap" target="blank"><img src="https://img.shields.io/twitter/follow/iamgaganap?logo=twitter&style=for-the-badge" alt="iamgaganap" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS frameworks**
