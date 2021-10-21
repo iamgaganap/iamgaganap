@@ -1,4 +1,4 @@
-![GAGIONS](https://user-images.githubusercontent.com/87026425/132521797-b39ea481-4305-4dfe-bfc5-35f709fcd4e7.png)
+
 <h1 align="center">Hi 👋, I'm Gagan A P</h1>
 <h3 align="center">A passionate Frontend Developer and UI Designer</h3>
 <p align="center">A hard working individual pursuing bachelor degree in BE (ECE), having minimal manageable knowledge in Web Development ( front-end part like HTML, CSS, JS, Bootstrap) and UI design, aspire to learn and update adequent knowledge as required. My interest and hobbies lies in Football and pencil sketches.</p>
