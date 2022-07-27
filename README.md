@@ -1,13 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Gagan A P</h1>
-<h3 align="center">A passionate Frontend Developer and UI Designer</h3>
-<p align="center">A hard working individual pursuing bachelor degree in BE (ECE), having minimal manageable knowledge in Web Development ( front-end part like HTML, CSS, JS, Bootstrap) and UI design, aspire to learn and update adequent knowledge as required. My interest and hobbies lies in Football and pencil sketches.</p>
+<h1 align="center">Hi 👋, I'm Gagan</h1>
+<h3 align="center">Design | Develop | Deploy</h3>
+<p align="center">BE graduate in ECE. Interested in web development </p>
 
 <p align="left"> <a href="https://twitter.com/iamgaganap" target="blank"><img src="https://img.shields.io/twitter/follow/iamgaganap?logo=twitter&style=for-the-badge" alt="iamgaganap" /></a> </p>
 
-- 📫 How to reach me **gaganponnappa9@gmail.com**
+- 📫 Reach me @ **gaganponnappa9@gmail.com**
 
-- ⚡ Fun fact **i think too much and feel too little**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
