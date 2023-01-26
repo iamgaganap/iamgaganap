@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">Design | Develop | Deploy</h3>
-<p align="center">BE graduate in ECE. Interested in web development </p>
+<p align="center">BE graduate. Web Dev </p>
 
 <p align="left"> <a href="https://twitter.com/iamgaganap" target="blank"><img src="https://img.shields.io/twitter/follow/iamgaganap?logo=twitter&style=for-the-badge" alt="iamgaganap" /></a> </p>
 
